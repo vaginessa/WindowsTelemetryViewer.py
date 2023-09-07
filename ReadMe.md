@@ -1,5 +1,5 @@
 WindowsTelemetryViewer.py
-=========================
+=========================!
 [wheel](https://gitlab.com/KOLANICH/WindowsTelemetryViewer.py/-/jobs/artifacts/master/raw/wheels/WindowsTelemetryViewer.py-0.CI-py3-none-any.whl?job=build)
 [![PyPi Status](https://img.shields.io/pypi/v/WindowsTelemetryViewer.py.svg)](https://pypi.python.org/pypi/WindowsTelemetryViewer.py)
 ![GitLab Build Status](https://gitlab.com/KOLANICH/WindowsTelemetryViewer.py/badges/master/pipeline.svg)
